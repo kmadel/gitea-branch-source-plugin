@@ -1,6 +1,6 @@
 Gitea Branch Source
 =====================
-#Coming Soon...
+# Coming Soon...
 Provides Jenkins SCMSource and Jenkins SCMNavigator for [Gitea: Git with a cup of tea](https://gitea.io/en-US/)
 
 **[Pipeline as Code](https://go.cloudbees.com/docs/cloudbees-documentation/cookbook/ch19.html#ch19_pipeline-as-code) for Gitea: Git with a cup of tea!**
